@@ -18,7 +18,7 @@
     transform: translateY(0)
   }
 }
-/* PRUEBA DE MANTENIMIENTO */
+
 .mainte {
   position: fixed;
   height: 100%;
@@ -30,7 +30,7 @@
   padding-left: 2rem;
   z-index: 1;
   
-  a { color: var(--mt-accent, #b3d4fc) }
+  a { color: var(--mt-accent, #1c2448) }
 
   // Meteor icons: https://meteoricons.com/
   .i {
@@ -107,7 +107,7 @@
 
 .wave {
   --wave-size: 380rem;
-  --wave-color: #009cde;
+  --wave-color: #009ee3;
   width: 100%;
   position: absolute;
   overflow: hidden;
